@@ -7,8 +7,8 @@
     - KOSPI200 지수 추종 ETF KODEX200
     - 2013-01-04 ~ 2023-01-04
     - NAV, 시가, 고가, 저가, 종가, 거래량, 괴리율, 추적오차율
-    ![data](./data_ex.png)
+![data](./data_ex.png)
     
     
-- ETF
+- NAV, 괴리율, 추적오차율
 ![etf](./etf_image.png)
